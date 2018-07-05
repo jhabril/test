@@ -21,8 +21,8 @@ namespace Console_arduino
 
             port.Close();
 
+            // que pedo
 
-            
         }
     }
 }
