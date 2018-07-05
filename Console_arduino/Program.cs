@@ -20,6 +20,9 @@ namespace Console_arduino
             port.Write("a");  
 
             port.Close();
+
+
+
             //nomames    
         }
     }
