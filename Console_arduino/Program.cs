@@ -20,9 +20,7 @@ namespace Console_arduino
             port.Write("a");  
 
             port.Close();
-
-            // que pedo
-
+            //nomames    
         }
     }
 }
